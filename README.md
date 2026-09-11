@@ -7,7 +7,7 @@ I'm interested in **Explainable AI (XAI), Machine Learning, Static Analysis, Com
 ## Some of my projects
 
 
-# 🏎️ Reinforcement Learning for Autonomous Racing
+### 🏎️ Reinforcement Learning for Autonomous Racing
 
 *Under development — repository coming soon.*
 
@@ -16,7 +16,7 @@ Experiments with reinforcement learning agents for autonomous racing, exploring 
 **Topics:** Reinforcement Learning · Q-Learning · Simulation · Autonomous Systems
 
 
-# ⚙️ Compiler Optimization Heuristic Analysis
+### ⚙️ Compiler Optimization Heuristic Analysis
 
 *Under development — repository coming soon.*
 
@@ -25,21 +25,21 @@ Investigating an alternative to instruction-count heuristics for compiler optimi
 **Topics:** LLVM · Static Analysis · Compiler Optimization · Machine Learning
 
 
-# 🔎 [Causal Inference for NLP Algorithm Selection](https://github.com/LeoRoms/causal_project)
+### 🔎 [Causal Inference for NLP Algorithm Selection](https://github.com/LeoRoms/causal_project)
 
 Developed a causal model to investigate and explain the algorithmic strategies adopted across thousands of NLP research papers.
 
 **Topics:** Causal Inference · Statistical Analysis · Machine Learning · NLP
 
 
-# 🔤 [CAPTCHA Solver](https://github.com/LeoRoms/CAPTCHA-solver)
+### 🔤 [CAPTCHA Solver](https://github.com/LeoRoms/CAPTCHA-solver)
 
 Computer vision project for recognizing multi-character CAPTCHAs using image preprocessing, feature extraction, and machine learning models.
 
 **Topics:** Computer Vision · HOG · Machine Learning · Image Processing
 
 
-#🗺️ [Dynamic Map with KD-Tree](https://github.com/LeoRoms/Dynamic-map-with-KD-Tree)
+### 🗺️ [Dynamic Map with KD-Tree](https://github.com/LeoRoms/Dynamic-map-with-KD-Tree)
 
 Implementation of a dynamic spatial map using a KD-Tree data structure for efficient organization and spatial queries.
 
