@@ -4,9 +4,9 @@ My name is **Leonardo Romano Andrade**, and I'm a Computer Science undergraduate
 
 I'm interested in **Explainable AI (XAI), Machine Learning, Static Analysis, Compiler Optimization, and Reinforcement Learning**.
 
-## Selected Projects
+## Some of my projects
 
-### 🏎️ Reinforcement Learning for Autonomous Racing
+# 🏎️ Reinforcement Learning for Autonomous Racing
 
 *Under development — repository coming soon.*
 
